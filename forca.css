@@ -130,7 +130,7 @@ div#res .final button:hover{
   opacity: .7;
 }
 
-@media (max-width: 360px) and (max-width: 640px){
+@media (max-width: 400px) {
   body{
     height: 90vh;
   }
